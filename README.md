@@ -22,9 +22,12 @@ This project demonstrates **modern front-end development skills**, including:
 
 ## 🖼️ Preview
 
-*(Add a screenshot or animated GIF of your app here for maximum impact, e.g. `screenshot.png`)*
+<img width="462" height="501" alt="image" src="https://github.com/user-attachments/assets/bd8a85de-727e-4019-b385-a22734c3f323" />
 
-![To-Do List Preview](screenshot.png)
+<img width="489" height="531" alt="image" src="https://github.com/user-attachments/assets/403aff13-bacb-42b7-99e5-d0e68b46448a" />
+
+<img width="483" height="462" alt="image" src="https://github.com/user-attachments/assets/18f9b06a-eb4b-4d59-a654-bbbf4ffeb338" />
+
 
 ---
 
