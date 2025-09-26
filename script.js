@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
       saveTask();
     });
     li.querySelector('.delete-btn').addEventListener('click',(event)=>{
-        event.stopPropagation();// prevent toggle for firing
+        event.stopPropagation(); // prevent toggle for firing
         tasks =tasks.filter(t=> t.id !== task.id);
         li.remove();
         saveTask();
